@@ -9,6 +9,6 @@ Francesco Corso, Giuseppe Russo, and Francesco Pierri. 2024. A Longitudinal Stud
 
 In *notebooks/* we provide the two python notebooks for the reproduction of the results.
 
-In *fr_idstoxicity/sentiment.csv* and *it_ids_sentiment_toxicity.csv* we report all the ids of the comments of r/france and r/italy with toxicity and sentiment values.
+In *fr_ids_toxicity/sentiment.csv* and *it_ids_sentiment_toxicity.csv* we report all the ids of the comments of r/france and r/italy with toxicity and sentiment values.
 The dataset can be fully reconstructed utilizing the Pushshift dumps available on the-eye.eu. Be mindful that this could violate Reddit's ToS.
 For the scores age,gender,partisan use the scores provided in: https://github.com/CSSLab/social-dimensions
